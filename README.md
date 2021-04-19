@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik kumar</h1>
 <h3 align="center">Web developer && Open source contributor</h3>
 
-- 🔭 I’m currently working on **E-commerce(Gatsby,react,GraphQl)**
-
-- 🌱 I’m currently learning **React,GraphQl**
-
 - 👨‍💻 All of my projects are available at [https://pratik038.github.io/portfolio/](https://pratik038.github.io/portfolio/)
 
 - 📫 How to reach me **pratik0381200@gmail.com**
